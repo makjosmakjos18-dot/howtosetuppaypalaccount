@@ -1,0 +1,20 @@
+{
+  "provider": "admob",
+  "is_ads_enabled": true,
+  "test_mode": true,
+
+  "is_banner_enabled": true,
+  "is_interstitial_enabled": true,
+  "is_app_open_enabled": true,
+  "is_rewarded_enabled": true,
+  "is_native_enabled": true,
+
+  "interstitial_interval_seconds": 20,
+  "interstitial_clicks_threshold": 2,
+
+  "app_open_interval_seconds": 50,
+  "show_app_open_on_start": true,
+  "show_app_open_on_resume": true,
+
+  "preload_ads": true
+}
