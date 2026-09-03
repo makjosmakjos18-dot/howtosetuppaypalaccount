@@ -10,7 +10,7 @@
   "is_native_enabled": true,
 
   "interstitial_interval_seconds": 60,
-  "interstitial_clicks_threshold": 2,
+  "interstitial_clicks_threshold": 3,
 
   "app_open_interval_seconds": 50,
   "show_app_open_on_start": true,
