@@ -1,7 +1,7 @@
 {
   "provider": "admob",
-  "is_ads_enabled": true,
-  "test_mode": true,
+  "is_ads_enabled": false,
+  "test_mode": false,
 
   "is_banner_enabled": false,
   "is_interstitial_enabled": true,
