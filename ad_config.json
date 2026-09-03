@@ -9,7 +9,7 @@
   "is_rewarded_enabled": true,
   "is_native_enabled": true,
 
-  "interstitial_interval_seconds": 20,
+  "interstitial_interval_seconds": 60,
   "interstitial_clicks_threshold": 2,
 
   "app_open_interval_seconds": 50,
